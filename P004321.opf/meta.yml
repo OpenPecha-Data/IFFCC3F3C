@@ -1,7 +1,7 @@
 id: P004321
 initial_creation_type: ocr
 created_at: 26/03/2020
-last_modified_at: 24/11/2021
+last_modified_at: 2021-12-17 11:10:27.566303
 source_metadata:
   id: bdr:W1AC430
   title: 'བོད་ལྗོངས་ཀྱི་དགོན་སྡེའི་དཀར་ཆག་མུ་ཏིག་ཕྲེང་བ། —ལྷ་ས་གྲོང་མཐིལ་གྱི་དགོན་སྡེའི་སྐོར། '
@@ -13,3 +13,5 @@ source_metadata:
       volume_number: 1
       total_pages: 480
       base_file: v001.txt
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: true
